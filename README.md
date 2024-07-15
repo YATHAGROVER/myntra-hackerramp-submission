@@ -1,4 +1,4 @@
-Outfit visualizer and Personalized Outfit Recommendation System
+#Outfit visualizer and Personalized Outfit Recommendation System
 
 This project aims to redefine how users engage with their wardrobe by offering a sophisticated outfit visualization experience and intelligent outfit recommendations based on specific criterias.
 
