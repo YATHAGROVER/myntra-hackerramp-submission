@@ -6,7 +6,7 @@ This project aims to redefine how users engage with their wardrobe by offering a
 
 Our system goes beyond traditional try-on applications by empowering users to mix and match tops and bottoms of their choice on a virtual model. This allows them to visualize complete outfits effortlessly. Moreover, the system intelligently recommends complementary tops or bottoms based on the user's initial selection, ensuring a personalized and curated shopping experience.
 
-Demo link: [demo]("https://drive.google.com/file/d/1QV8FZgmyzNJVRrHdrDKBy166pEWxMDVp/view?usp=sharing")
+[Demo](https://drive.google.com/file/d/1QV8FZgmyzNJVRrHdrDKBy166pEWxMDVp/view?usp=sharing)
 ## Key Features
 
 ### Virtual Try-On
